@@ -1,0 +1,58 @@
+#info {
+    background: rgb(230, 230, 230);
+    width: 70%;
+    float: left;
+}
+
+#contact {
+    background: #555151;
+    float: right;
+    width: 30%;
+    height: 800px;
+}
+
+p,
+li {
+    font-family: monospace;
+    font-size: 1.2em;
+}
+
+.description {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border: none;
+    -moz-border-radius: 75px;
+    -webkit-border-radius: 75px;
+    border-radius: 75px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+#parag {}
+
+h2 {
+    Color: blue;
+}
+
+#name {
+    background-color: firebrick;
+    font-family: sans-serif;
+    margin-right: 10px;
+    font-size: 2em;
+}
+
+#titre {
+    font-family: cursive;
+    background-color: firebrick;
+    font-size: 2.5em;
+}
+
+.infoo {
+    margin-left: 20px;
+}
